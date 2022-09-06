@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-09-05 13:47+0530\n"
+"PO-Revision-Date: 2022-09-05 14:15+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../../../public\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: add-token-data.php:45
+msgid "Collection Added Successfully"
+msgstr "Collection Added Successfully"
+
+#: add-token-data.php:52
+msgid "Failed to create collection"
+msgstr "Failed to create collection"
+
+#: change-password.php:63 reset-password.php:44
+msgid "Your password has been successfully changed"
+msgstr "Your password has been successfully changed"
+
+#: change-password.php:74
+msgid "Password change failed"
+msgstr "Password change failed"
+
+#: change-password.php:85
+msgid "Your password is incorrect"
+msgstr "Your password is incorrect"
+
+#: change-password.php:94
+msgid "Access Denied"
+msgstr "Access Denied"
+
+#: create-artist.php:84
+msgid "Artist created successfully"
+msgstr "Artist created successfully"
+
+#: create-artist.php:91 create-artist.php:103
+msgid "Failed to create a artist"
+msgstr "Failed to create a artist"
+
+#: create-new-collection.php:208 get-collection-metadata.php:39
+#: get-tier-benefits-data.php:31
+msgid "Collection created successfully"
+msgstr "Collection created successfully"
+
+#: create-new-collection.php:215 create-new-collection.php:226
+msgid "Failed to create the collection"
+msgstr "Failed to create the collection"
+
+#: create-new-collection.php:235 update-collection-meta.php:272
+#: update-mint-status.php:64
+msgid "Access denied"
+msgstr "Access denied"
+
+#: create-user.php:129
+msgid ""
+"Account created successfully and verification email has been sent to your "
+"email"
+msgstr ""
+"Account created successfully and verification email has been sent to your "
+"email"
+
+#: create-user.php:146
+msgid ""
+"Account created successfully but we are unable to send verification email."
+msgstr ""
+"Account created successfully but we are unable to send verification email."
+
+#: create-user.php:165
+msgid "Email already exists and linked with another account"
+msgstr "Email already exists and linked with another account"
+
+#: create-user.php:174
+msgid "Registration Failed"
+msgstr "Registration Failed"
+
+#: delete-artist.php:39
+msgid "Artist Deleted successfully"
+msgstr "Artist Deleted successfully"
+
+#: delete-artist.php:48
+msgid "Artist deletion failed"
+msgstr "Artist deletion failed"
+
+#: delete-collection-meta.php:48
+msgid "Deleted collection successfully"
+msgstr "Deleted collection successfully"
+
+#: delete-collection-meta.php:57
+msgid "Collection deletion failed"
+msgstr "Collection deletion failed"
+
+#: delete-collection-meta.php:67
+msgid "Cannot delete minted collection"
+msgstr "Cannot delete minted collection"
+
+#: forgot-password.php:38
+msgid "Password Request Link"
+msgstr "Password Request Link"
+
+#: forgot-password.php:60
+msgid "Password reset link has been sent to your email."
+msgstr "Password reset link has been sent to your email."
+
+#: forgot-password.php:73
+msgid "Couldn't send an email. Please check your email address"
+msgstr "Couldn't send an email. Please check your email address"
+
+#: forgot-password.php:86
+msgid "Your email address is not registered in our record."
+msgstr "Your email address is not registered in our record."
+
+#: get-artist-by-id.php:31 get-artist-data.php:28 get-artist-detail-data.php:69
+msgid "Artist data collected successfully"
+msgstr "Artist data collected successfully"
+
+#: get-collection-data.php:92
+msgid "Failed to fetch data"
+msgstr "Failed to fetch data"
+
+#: get-collection-meta-by-id.php:35
+msgid "Collection data fetched successfully"
+msgstr "Collection data fetched successfully"
+
+#: get-deposit-data.php:29
+msgid "Deposit data collected successfully"
+msgstr "Deposit data collected successfully"
+
+#: get-klaytn-account-balance-data.php:113
+msgid "Account Balance fetched successfully"
+msgstr "Account Balance fetched successfully"
+
+#: get-klaytn-royalty-claim-histories.php:48
+msgid "Royalty claim history data fetched successfully"
+msgstr "Royalty claim history data fetched successfully"
+
+#: get-klaytn-transaction-history.php:68
+msgid "Transaction data collected successfully"
+msgstr "Transaction data collected successfully"
+
+#: get-token-balances-by-wallet.php:58 get-token-profile-data.php:46
+msgid "Tokens data collected successfully"
+msgstr "Tokens data collected successfully"
+
+#: login.php:81
+msgid "Successful login."
+msgstr "Successful login."
+
+#: login.php:102
+msgid "Login successfull"
+msgstr "Login successfull"
+
+#: login.php:118
+msgid "Your email does not exists"
+msgstr "Your email does not exists"
+
+#: login.php:128 reset-password.php:77
+msgid "Invalid credentials"
+msgstr "Invalid credentials"
+
+#: profile-update.php:99
+msgid "Profile successfully updated"
+msgstr "Profile successfully updated"
+
+#: profile-update.php:109
+msgid "Profile update failed"
+msgstr "Profile update failed"
+
+#: reset-password.php:55
+msgid "Your password reset request failed"
+msgstr "Your password reset request failed"
+
+#: reset-password.php:66
+msgid "Your password reset link was expired"
+msgstr "Your password reset link was expired"
+
+#: send-royalty-claim-email.php:223
+msgid "Royalty Claim email has been successfully sent"
+msgstr "Royalty Claim email has been successfully sent"
+
+#: send-royalty-claim-email.php:234
+msgid "Unable to send royalty claim email"
+msgstr "Unable to send royalty claim email"
+
+#: send-royalty-claim-email.php:248 send-token-purchase-success-email.php:237
+#: send-verification-email.php:112 submit-request.php:140 verify-user.php:103
+msgid "Access denied."
+msgstr "Access denied."
+
+#: send-token-purchase-success-email.php:212
+msgid "Token purchase email has been successfully sent"
+msgstr "Token purchase email has been successfully sent"
+
+#: send-token-purchase-success-email.php:223
+msgid "Unable to send email"
+msgstr "Unable to send email"
+
+#: send-verification-email.php:50
+msgid "Email Verification"
+msgstr "Email Verification"
+
+#: send-verification-email.php:74
+msgid "Verification email has been successfully sent to your email."
+msgstr "Verification email has been successfully sent to your email."
+
+#: send-verification-email.php:85
+msgid "Unable to send email, please check your email address"
+msgstr "Unable to send email, please check your email address"
+
+#: send-verification-email.php:98
+msgid "Email does not exist in our record"
+msgstr "Email does not exist in our record"
+
+#: submit-request.php:115
+msgid ""
+"Request submitted successfully, our support team will get back to you as "
+"soon as possible."
+msgstr ""
+"Request submitted successfully, our support team will get back to you as "
+"soon as possible."
+
+#: submit-request.php:126
+msgid "Unable to submit a request, please try again later"
+msgstr "Unable to submit a request, please try again later"
+
+#: update-account-info.php:79
+msgid "Account Preference updated successfully."
+msgstr "Account Preference updated successfully."
+
+#: update-artist.php:94
+msgid "Artist updated successfully"
+msgstr "Artist updated successfully"
+
+#: update-artist.php:101 update-artist.php:110
+msgid "Failed to update the artist"
+msgstr "Failed to update the artist"
+
+#: update-collection-meta.php:247
+msgid "Collection updated successfully"
+msgstr "Collection updated successfully"
+
+#: update-collection-meta.php:254 update-collection-meta.php:263
+msgid "Failed to update the collection"
+msgstr "Failed to update the collection"
+
+#: update-collection-meta.php:280
+msgid "Cannot update minted collection"
+msgstr "Cannot update minted collection"
+
+#: update-connected-wallet-for-user.php:40
+msgid "Wallet successfully updated"
+msgstr "Wallet successfully updated"
+
+#: update-connected-wallet-for-user.php:47
+msgid "Failed to update wallet"
+msgstr "Failed to update wallet"
+
+#: update-mint-status.php:49
+msgid "Mint status updated successfully"
+msgstr "Mint status updated successfully"
+
+#: update-mint-status.php:56
+msgid "Failed to update the mint status"
+msgstr "Failed to update the mint status"
+
+#: update-profile-image.php:66
+msgid "User image successfully updated"
+msgstr "User image successfully updated"
+
+#: update-profile-image.php:74
+msgid "Failed to update user image"
+msgstr "Failed to update user image"
+
+#: update-user-cover-image.php:63
+msgid "Cover image successfully updated"
+msgstr "Cover image successfully updated"
+
+#: update-user-cover-image.php:71
+msgid "Failed to update cover image"
+msgstr "Failed to update user image"
+
+#: verify-user.php:74
+msgid "Your email verification is complete"
+msgstr "Your email verification is complete"
+
+#: verify-user.php:87
+msgid "Your email verification failed"
+msgstr "Your email verification failed"
