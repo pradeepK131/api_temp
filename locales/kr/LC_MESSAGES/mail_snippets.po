@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-09-05 14:52+0530\n"
+"PO-Revision-Date: 2022-09-05 14:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../../../public\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: create-user.php\n"
+"X-Poedit-SearchPath-1: send-verification-email.php\n"
+"X-Poedit-SearchPath-2: send-royalty-claim-email.php\n"
+"X-Poedit-SearchPath-3: send-token-purchase-success-email.php\n"
+
+#: create-user.php:102
+msgid "Account created successfully"
+msgstr "Account created successfully"
+
+#: create-user.php:104
+msgid "Your email verification failed"
+msgstr "Your email verification failed"
+
+#: create-user.php:105
+msgid "Verification link stays valid for"
+msgstr "Verification link stays valid for"
+
+#: create-user.php:105
+msgid "24 hours"
+msgstr "24 hours"
+
+#: create-user.php:106
+msgid "Use the follwoing link to verify and login"
+msgstr "Use the follwoing link to verify and login"
+
+#: create-user.php:107
+msgid "Verify Here"
+msgstr "Verify Here"
+
+#: create-user.php:129
+msgid ""
+"Account created successfully and verification email has been sent to your "
+"email"
+msgstr ""
+"Account created successfully and verification email has been sent to your "
+"email"
+
+#: create-user.php:146
+msgid ""
+"Account created successfully but we are unable to send verification email."
+msgstr ""
+"Account created successfully but we are unable to send verification email."
+
+#: create-user.php:165
+msgid "Email already exists and linked with another account"
+msgstr "Email already exists and linked with another account"
+
+#: create-user.php:174
+msgid "Registration Failed"
+msgstr "Registration Failed"
+
+#: send-royalty-claim-email.php:172
+msgid "Royalty Claim Successfull"
+msgstr "Royalty Claim Successfull"
+
+#: send-royalty-claim-email.php:173 send-token-purchase-success-email.php:164
+msgid "Hi"
+msgstr "Hi"
+
+#: send-royalty-claim-email.php:173
+msgid "You have successfully claimed the royalty amount of"
+msgstr "You have successfully claimed the royalty amount of"
+
+#: send-royalty-claim-email.php:174 send-royalty-claim-email.php:199
+msgid "for a quantity of"
+msgstr "for a quantity of"
+
+#: send-royalty-claim-email.php:175 send-royalty-claim-email.php:200
+msgid "tier tokens that belongs to"
+msgstr "tier tokens that belongs to"
+
+#: send-royalty-claim-email.php:177 send-token-purchase-success-email.php:166
+msgid "Check your transaction"
+msgstr "Check your transaction"
+
+#: send-royalty-claim-email.php:179 send-royalty-claim-email.php:204
+#: send-token-purchase-success-email.php:168
+msgid "here."
+msgstr "here."
+
+#: send-royalty-claim-email.php:180 send-token-purchase-success-email.php:169
+msgid "Regards,"
+msgstr "Regards,"
+
+#: send-royalty-claim-email.php:180 send-token-purchase-success-email.php:169
+msgid "Musician Team"
+msgstr "Musician Team"
+
+#: send-royalty-claim-email.php:197
+msgid "Royalty Claimed"
+msgstr "Royalty Claimed"
+
+#: send-royalty-claim-email.php:198 send-token-purchase-success-email.php:187
+msgid "Hi,"
+msgstr "Hi,"
+
+#: send-royalty-claim-email.php:198 send-token-purchase-success-email.php:187
+msgid "with user ID"
+msgstr "with user ID"
+
+#: send-royalty-claim-email.php:198
+msgid "has claimed the royalty amount of"
+msgstr "has claimed the royalty amount of"
+
+#: send-royalty-claim-email.php:201
+msgid "collection"
+msgstr "collection"
+
+#: send-royalty-claim-email.php:202 send-token-purchase-success-email.php:190
+msgid "Check the transaction"
+msgstr "Check the transaction"
+
+#: send-royalty-claim-email.php:205 send-token-purchase-success-email.php:193
+msgid "By,"
+msgstr "By,"
+
+#: send-royalty-claim-email.php:205 send-token-purchase-success-email.php:193
+msgid "Musician Mail Server"
+msgstr "Musician Mail Server"
+
+#: send-royalty-claim-email.php:223
+msgid "Royalty Claim email has been successfully sent"
+msgstr "Royalty Claim email has been successfully sent"
+
+#: send-royalty-claim-email.php:234
+msgid "Unable to send royalty claim email"
+msgstr "Unable to send royalty claim email"
+
+#: send-royalty-claim-email.php:248 send-token-purchase-success-email.php:237
+#: send-verification-email.php:112
+msgid "Access denied."
+msgstr "Access denied."
+
+#: send-token-purchase-success-email.php:163
+msgid "Purchase Successfull"
+msgstr "Purchase Successfull"
+
+#: send-token-purchase-success-email.php:164
+msgid "You have successfully purchased 1 quantity of"
+msgstr "You have successfully purchased 1 quantity of"
+
+#: send-token-purchase-success-email.php:164
+#: send-token-purchase-success-email.php:188
+msgid "tier token belongs to"
+msgstr "tier token belongs to"
+
+#: send-token-purchase-success-email.php:165
+#: send-token-purchase-success-email.php:189
+msgid "collection for the price of"
+msgstr "collection for the price of"
+
+#: send-token-purchase-success-email.php:186
+msgid "Purchase Notification"
+msgstr "Purchase Notification"
+
+#: send-token-purchase-success-email.php:187
+msgid "has successfully purchased"
+msgstr "has successfully purchased"
+
+#: send-token-purchase-success-email.php:188
+msgid "1 quantity of"
+msgstr "1 quantity of"
+
+#: send-token-purchase-success-email.php:192
+msgid "here"
+msgstr "here"
+
+#: send-token-purchase-success-email.php:212
+msgid "Token purchase email has been successfully sent"
+msgstr "Token purchase email has been successfully sent"
+
+#: send-token-purchase-success-email.php:223
+msgid "Unable to send email"
+msgstr "Unable to send email"
+
+#: send-verification-email.php:50
+msgid "Email Verification"
+msgstr "Email Verification"
+
+#: send-verification-email.php:74
+msgid "Verification email has been successfully sent to your email."
+msgstr "Verification email has been successfully sent to your email."
+
+#: send-verification-email.php:85
+msgid "Unable to send email, please check your email address"
+msgstr "Unable to send email, please check your email address"
+
+#: send-verification-email.php:98
+msgid "Email does not exist in our record"
+msgstr "Email does not exist in our record"
